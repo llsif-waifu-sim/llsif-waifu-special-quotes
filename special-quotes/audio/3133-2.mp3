@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>404 Not Found</title>
+
+        <style>
+            html, body {
+                height: 100%;
+            }
+            body {
+                margin: 0;
+                padding: 0;
+                width: 100%;
+                display: table;
+                background-color: #EEE;
+            }
+            .container {
+                text-align: center;
+                display: table-cell;
+                vertical-align: middle;
+            }
+            .content {
+                text-align: center;
+                display: inline-block;
+            }
+            .title {
+                font-size: 72px;
+                margin-bottom: 40px;
+            }
+            .link {
+                font-size: 48px;
+                margin-bottom: 40px;
+            }
+            .link a {
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="content">
+                <div class="title">404 Not Found</div>
+                <div class="link"><a href="//llsif.org">Click here to return to llsif.org</a></div>
+            </div>
+        </div>
+    </body>
+</html>
